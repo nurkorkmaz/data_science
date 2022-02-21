@@ -1,10 +1,10 @@
 # Data Science 
 * Data.csv veri seti kullanılarak geliştirildi.
 ## Kütüphaneler 
-* import numpy as np
-* import pandas as pd 
-* import matplotlib as mpl
-* import seaborn as sns
+* numpy 
+* pandas 
+* matplotlib 
+* seaborn 
 
 ## Veri Analizi 
 * NumPy (Numerical Python) bilimsel hesaplamaları hızlı bir şekilde yapmayı sağlayan bir matematik kütüphanesidir. Numpy’ın temelini numpy dizileri oluşturur. 
